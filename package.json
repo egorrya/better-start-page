@@ -15,12 +15,12 @@
   "author": "Egor Rya",
   "license": "ISC",
   "devDependencies": {
-    "autoprefixer": "^9.7.6",
+    "autoprefixer": "^10.4.21",
     "concat": "^1.0.3",
     "live-server": "^1.2.2",
     "node-sass": "^7.0.1",
     "npm-run-all": "^4.1.5",
-    "postcss-cli": "^7.1.1"
+    "postcss-cli": "^11.0.1"
   },
   "repository": {
     "type": "git",
